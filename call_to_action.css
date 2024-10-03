@@ -1,0 +1,91 @@
+.call-to-action .background {
+  opacity: 0.7;
+  background: url('../assets/images/background.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.call-to-action .easy-to-setup-easy {
+  margin: 0 13.2px 41px 13.2px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-header-font-family, 'DM Sans');
+  font-weight: var(--heading-h-2-header-font-weight, 700);
+  font-size: var(--heading-h-2-header-font-size, 58px);
+  letter-spacing: var(--heading-h-2-header-letter-spacing, -1px);
+  line-height: var(--heading-h-2-header-line-height, 1.207);
+  color: var(--colors-white, #FFFFFF);
+}
+.call-to-action .bootstrap-is-awidel {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.call-to-action .title {
+  position: relative;
+  margin-bottom: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.call-to-action .icon {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--colors-white, #FFFFFF);
+}
+.call-to-action .icon-fill {
+  border-radius: 100px;
+  background: #EA3223;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  padding: 24.5px 0 22.5px 4px;
+  width: 70px;
+  box-sizing: border-box;
+}
+.call-to-action .sign-up {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-big-font-family, 'DM Sans');
+  font-weight: var(--buttons-big-font-weight, 500);
+  font-size: var(--buttons-big-font-size, 20px);
+  line-height: var(--buttons-big-line-height, 1.3);
+  color: var(--colors-white, #FFFFFF);
+}
+.call-to-action .big-fill {
+  border-radius: 100px;
+  background: #25DAC5;
+  position: relative;
+  display: flex;
+  padding: 22px 0 22px 2px;
+  width: 213px;
+  box-sizing: border-box;
+}
+.call-to-action .call-to-actions {
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  width: 313px;
+  box-sizing: border-box;
+}
+.call-to-action {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0;
+  width: 1400px;
+  box-sizing: border-box;
+}

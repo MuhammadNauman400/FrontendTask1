@@ -1,0 +1,175 @@
+.footer .startup-3 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .logos-logo-white {
+  margin-bottom: 0.2px;
+  display: flex;
+  box-sizing: border-box;
+}
+.footer .privacy-policy {
+  margin-right: 13px;
+  width: 102px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .terms {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .container-1 {
+  margin-bottom: 3.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 173.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.footer .fa-twitter {
+  margin-right: 13px;
+  width: 17px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  text-transform: uppercase;
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .fa-facebook-square {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  text-transform: uppercase;
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .fa-google-plus {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  text-transform: uppercase;
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .socials {
+  margin-top: 3.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 110px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.footer .container {
+  margin-top: 1.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.footer .copyrights {
+  margin: 0 13.2px 40.8px 1.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1170px;
+  box-sizing: border-box;
+}
+.footer .divider {
+  opacity: 0.3;
+  margin: 0 0 47.4px 1px;
+  width: 1169px;
+  height: 2px;
+}
+.footer .tour {
+  margin-right: 13px;
+  width: 32px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .features {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .pricing-plans {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .our-works {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .brands {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .contacts {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .designmodo-a {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.footer .menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1170px;
+  box-sizing: border-box;
+}
+.footer {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 115px 44.6px 115px;
+  width: 1400px;
+  box-sizing: border-box;
+}

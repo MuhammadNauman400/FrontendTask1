@@ -1,0 +1,424 @@
+.team .startup-crew {
+  margin-bottom: 31px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-3-title-font-family, 'DM Sans');
+  font-weight: var(--heading-h-3-title-font-weight, 700);
+  font-size: var(--heading-h-3-title-font-size, 42px);
+  letter-spacing: var(--heading-h-3-title-letter-spacing, -0.4px);
+  line-height: var(--heading-h-3-title-line-height, 1.238);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .the-most-important-p {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .title {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .mask-4 {
+  border-radius: 50px;
+  background: url('../assets/images/mask_11.jpeg') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.team .userpic-4 {
+  margin: 0 1px 17px 1px;
+  display: flex;
+  align-self: flex-start;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.team .leah-salomon {
+  margin-bottom: 8.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .ui-designer {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .name-4 {
+  margin: 0 6.9px 20px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .fa-twitter-3 {
+  margin-right: 36.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-facebook-square {
+  margin-right: 34.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-dribbble-1 {
+  margin-right: 34.7px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-instagram-1 {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .socials-4 {
+  margin-left: 3.1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .member-1 {
+  margin-right: 148.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.team .mask-3 {
+  border-radius: 50px;
+  background: url('../assets/images/mask_9.jpeg') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.team .userpic-3 {
+  margin: 0 1px 17px 1px;
+  display: flex;
+  align-self: flex-start;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.team .colin-timmons {
+  margin-bottom: 8.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .ux-designer {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .name-3 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .fa-twitter-2 {
+  margin-right: 36.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-dribbble {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .socials-3 {
+  margin: 0 3.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .member-2 {
+  margin-right: 145.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.team .mask-2 {
+  border-radius: 50px;
+  background: url('../assets/images/mask_7.jpeg') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.team .userpic-2 {
+  margin: 0 2px 17px 2px;
+  display: flex;
+  align-self: flex-start;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.team .miguel-osborne {
+  margin: 0 0 8.2px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .front-end-developer {
+  margin-right: 8.6px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .name-2 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .fa-skype {
+  margin-right: 36.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-medium {
+  margin-right: 34.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-git {
+  margin-right: 0px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .socials-2 {
+  margin: 0 4.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .member-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.team .container {
+  margin-bottom: 60.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .mask-1 {
+  width: 100px;
+  height: 99.9px;
+}
+.team .userpic-1 {
+  margin: 0 1px 17px 1px;
+  display: flex;
+  align-self: flex-start;
+  width: 100px;
+  height: 99.9px;
+  box-sizing: border-box;
+}
+.team .taylor-simon {
+  margin-bottom: 8.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .product-manager {
+  margin-right: 5.5px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .name-1 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .fa-twitter-1 {
+  margin-right: 34.7px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .fa-instagram {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .socials-1 {
+  margin: 0 3.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .member-4 {
+  margin-right: 167.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.team .mask {
+  width: 100px;
+  height: 99.9px;
+}
+.team .userpic {
+  margin: 0 1px 17px 1px;
+  display: flex;
+  align-self: flex-start;
+  width: 100px;
+  height: 99.9px;
+  box-sizing: border-box;
+}
+.team .steven-mac-alister {
+  margin-bottom: 8.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .copyrighter {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.team .name {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .fa-twitter {
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.team .socials {
+  margin: 0 3.1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.team .member-5 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.team .container-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team .members {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.team {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: column;
+  padding: 100px 0 100px 115px;
+  width: 1400px;
+  box-sizing: border-box;
+}

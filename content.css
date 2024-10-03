@@ -1,0 +1,56 @@
+.content .image {
+  opacity: 0.5;
+  background: url('../assets/images/image_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.content .free-sample {
+  position: relative;
+  margin-bottom: 29px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.content .demo-version-of-star {
+  position: relative;
+  margin-bottom: 28px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-header-font-family, 'DM Sans');
+  font-weight: var(--heading-h-2-header-font-weight, 700);
+  font-size: var(--heading-h-2-header-font-size, 58px);
+  letter-spacing: var(--heading-h-2-header-letter-spacing, -1px);
+  line-height: var(--heading-h-2-header-line-height, 1.207);
+  color: var(--colors-white, #FFFFFF);
+}
+.content .startup-framework-co {
+  opacity: 0.7;
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--text-article-font-family, 'DM Sans');
+  font-weight: var(--text-article-font-weight, 500);
+  font-size: var(--text-article-font-size, 18px);
+  line-height: var(--text-article-line-height, 1.556);
+  color: var(--colors-white, #FFFFFF);
+}
+.content {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 107px 0 126px 0;
+  width: 1400px;
+  box-sizing: border-box;
+}

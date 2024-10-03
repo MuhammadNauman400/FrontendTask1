@@ -1,0 +1,210 @@
+.form .background {
+  opacity: 0.5;
+  background: url('../assets/images/image_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.form .ahigh-quality-solut {
+  margin-bottom: 32px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-3-title-font-family, 'DM Sans');
+  font-weight: var(--heading-h-3-title-font-weight, 700);
+  font-size: var(--heading-h-3-title-font-size, 42px);
+  letter-spacing: var(--heading-h-3-title-letter-spacing, -0.4px);
+  line-height: var(--heading-h-3-title-line-height, 1.238);
+  color: var(--colors-white, #FFFFFF);
+}
+.form .we-have-created-ane {
+  margin-right: 16.1px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.form .title-1 {
+  position: relative;
+  margin: 216px 149.3px 116px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.form .sign-up {
+  margin-right: 13px;
+  width: 69px;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-heading, #1E0E62);
+}
+.form .login {
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.form .container-1 {
+  margin: 0 8.2px 17px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 292.8px;
+  box-sizing: border-box;
+}
+.form .selected-1 {
+  border-radius: 0 5px 5px 0;
+  background: var(--colors-heading, #1E0E62);
+  width: 235px;
+  height: 3px;
+}
+.form .container {
+  border-radius: 0 5px 5px 0;
+  background: #EBEAED;
+  position: relative;
+  width: 470px;
+  height: 3px;
+  box-sizing: border-box;
+}
+.form .title {
+  margin-bottom: 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 470px;
+  box-sizing: border-box;
+}
+.form .your-email-1 {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.form .middle-dark-outline-1 {
+  border-radius: 100px;
+  border: 2px solid #EBEAED;
+  position: relative;
+  margin: 0 0 30px 2px;
+  padding: 12px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.form .your-email {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.form .middle-dark-outline {
+  border-radius: 100px;
+  border: 2px solid #EBEAED;
+  position: relative;
+  margin: 0 0 40px 2px;
+  padding: 12px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.form .sign-up-2 {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-white, #FFFFFF);
+}
+.form .middle-fill-1 {
+  border-radius: 100px;
+  background: #25DAC5;
+  position: relative;
+  margin: 0 0 19.4px 2px;
+  display: flex;
+  padding: 12px 0;
+  width: 330px;
+  box-sizing: border-box;
+}
+.form .divider-1 {
+  opacity: 0.1;
+  margin: 10.1px 14.8px 9.9px 0;
+  width: 142px;
+  height: 2px;
+}
+.form .or {
+  opacity: 0.3;
+  margin-right: 15.8px;
+  overflow-wrap: break-word;
+  font-family: 'NunitoSans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.2px;
+  line-height: 1.375;
+  color: #141414;
+}
+.form .divider {
+  opacity: 0.1;
+  margin: 10.1px 0 9.9px 0;
+  width: 142px;
+  height: 2px;
+}
+.form .container-2 {
+  margin-bottom: 19.6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.form .sign-up-1 {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-white, #FFFFFF);
+}
+.form .middle-fill {
+  border-radius: 100px;
+  background: #1DA1F2;
+  position: relative;
+  display: flex;
+  padding: 12px 0;
+  width: 330px;
+  box-sizing: border-box;
+}
+.form .sign-up-form {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 0 79px 0;
+  width: 470px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.form {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: row;
+  padding: 100px 0;
+  width: 1400px;
+  box-sizing: border-box;
+}

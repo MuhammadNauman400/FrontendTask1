@@ -1,0 +1,345 @@
+.contact .background {
+  opacity: 0.6;
+  background: url('../assets/images/background_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.contact .lets-keep-in-touch {
+  margin-bottom: 28px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-3-title-font-family, 'DM Sans');
+  font-weight: var(--heading-h-3-title-font-weight, 700);
+  font-size: var(--heading-h-3-title-font-size, 42px);
+  letter-spacing: var(--heading-h-3-title-letter-spacing, -0.4px);
+  line-height: var(--heading-h-3-title-line-height, 1.238);
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .we-have-created-ane {
+  margin: 0 5.4px 0 1px;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .title {
+  margin-bottom: 53.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .fa-phone {
+  margin-right: 17.1px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .container {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .phone {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .fa-envelope {
+  margin-right: 17.1px;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .infodesignmodo-com {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .email {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .fa-building-o {
+  margin: 0 17.1px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 2.111;
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .san-francisco-ca-560 {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .address {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .contacts {
+  margin: 0 4.1px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .container-3 {
+  position: relative;
+  margin: 150px 114.7px 40.8px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.contact .input-field-1 {
+  margin-right: 13px;
+  width: 100px;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-heading, #1E0E62);
+}
+.contact .budget {
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-heading, #1E0E62);
+}
+.contact .container-2 {
+  margin: 0 75.2px 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 295.8px;
+  box-sizing: border-box;
+}
+.contact .your-email-3 {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.contact .middle-dark-outline-3 {
+  border-radius: 100px;
+  border: 2px solid #EBEAED;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  padding: 12px 62.8px 12px 0;
+  width: 200px;
+  box-sizing: border-box;
+}
+.contact .your-email-2 {
+  margin-right: 13px;
+  width: 47px;
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-heading, #1E0E62);
+}
+.contact .arrow {
+  margin: 10.4px 0 9.3px 0;
+  width: 10.6px;
+  height: 6.2px;
+}
+.contact .middle-dark-outline-2 {
+  border-radius: 100px;
+  border: 2px solid #EBEAED;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+.contact .container-1 {
+  margin: 0 1px 35px 0;
+  display: flex;
+  flex-direction: row;
+  width: 370px;
+  box-sizing: border-box;
+}
+.contact .input-field {
+  margin: 0 269.6px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-heading, #1E0E62);
+}
+.contact .your-email {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.contact .middle-dark-outline {
+  border-radius: 100px;
+  border: 2px solid #EBEAED;
+  position: relative;
+  margin: 0 1px 35px 0;
+  padding: 12px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .your-message {
+  margin: 0 242.2px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-heading, #1E0E62);
+}
+.contact .your-email-1 {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.contact .middle-dark-outline-1 {
+  border-radius: 10px;
+  border: 2px solid #EBEAED;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 30px 0;
+  padding: 13px 19px 71px 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .check-icon {
+  width: 8px;
+  height: 5px;
+}
+.contact .on {
+  border-radius: 6px;
+  background: #25DAC5;
+  position: relative;
+  margin: 1px 12px 5px 0;
+  display: flex;
+  padding: 8px 6px 7px 6px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.contact .send-me-acopy {
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+}
+.contact .checkbox-checked {
+  margin: 15px 0 9px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.contact .sign-up {
+  overflow-wrap: break-word;
+  font-family: var(--buttons-middle-font-family, 'DM Sans');
+  font-weight: var(--buttons-middle-font-weight, 500);
+  font-size: var(--buttons-middle-font-size, 18px);
+  line-height: var(--buttons-middle-line-height, 1.444);
+  color: var(--colors-white, #FFFFFF);
+}
+.contact .middle-fill {
+  border-radius: 100px;
+  background: #25DAC5;
+  position: relative;
+  display: flex;
+  padding: 12px 0;
+  width: 120px;
+  box-sizing: border-box;
+}
+.contact .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 371px;
+  box-sizing: border-box;
+}
+.contact .contact-form {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 58px 0 56px 0;
+  width: 470px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.contact {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: row;
+  padding: 100px 0;
+  width: 1400px;
+  box-sizing: border-box;
+}

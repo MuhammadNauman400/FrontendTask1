@@ -1,0 +1,271 @@
+.testimonial .last-tweets {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-3-title-font-family, 'DM Sans');
+  font-weight: var(--heading-h-3-title-font-weight, 700);
+  font-size: var(--heading-h-3-title-font-size, 42px);
+  letter-spacing: var(--heading-h-3-title-letter-spacing, -0.4px);
+  line-height: var(--heading-h-3-title-line-height, 1.238);
+  color: #FFFFFF;
+}
+.testimonial .title {
+  margin: 0 602.2px 40px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.testimonial .placeholder-1 {
+  opacity: 0.15;
+  border-radius: 10px;
+  border: 2px solid var(--colors-white, #FFFFFF);
+  width: 470px;
+  height: 237px;
+}
+.testimonial .mask {
+  border-radius: 10px;
+  background: url('../assets/images/mask_11.jpeg') 50% / cover no-repeat;
+  width: 70px;
+  height: 70px;
+}
+.testimonial .userpic {
+  border-radius: 10px;
+  position: relative;
+  margin: 36px 30px 108px 0;
+  display: flex;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.testimonial .prototyping-in-the-b {
+  margin-bottom: 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-article-font-family, 'DM Sans');
+  font-weight: var(--text-article-font-weight, 500);
+  font-size: var(--text-article-font-size, 18px);
+  line-height: var(--text-article-line-height, 1.556);
+  color: #FFFFFF;
+}
+.testimonial .timothy-nathan {
+  opacity: 0.3;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.testimonial .text {
+  position: relative;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.testimonial .testimonial-2 {
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: row;
+  padding: 35px 45.3px 23px 35px;
+  box-sizing: border-box;
+}
+.testimonial .placeholder-3 {
+  opacity: 0.15;
+  border-radius: 10px;
+  border: 2px solid var(--colors-white, #FFFFFF);
+  width: 470px;
+  height: 237px;
+}
+.testimonial .mask-1 {
+  border-radius: 10px;
+  background: url('../assets/images/mask_6.jpeg') 50% / cover no-repeat;
+  width: 70px;
+  height: 70px;
+}
+.testimonial .userpic-1 {
+  border-radius: 10px;
+  position: relative;
+  margin: 36px 30px 108px 0;
+  display: flex;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.testimonial .prototyping-in-the-b-1 {
+  margin-bottom: 41px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-article-font-family, 'DM Sans');
+  font-weight: var(--text-article-font-weight, 500);
+  font-size: var(--text-article-font-size, 18px);
+  line-height: var(--text-article-line-height, 1.556);
+  color: var(--colors-white, #FFFFFF);
+}
+.testimonial .timothy-nathan-1 {
+  opacity: 0.3;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.testimonial .text-1 {
+  position: relative;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.testimonial .testimonial-21 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 35px 0 23px 35px;
+  width: 470px;
+  box-sizing: border-box;
+}
+.testimonial .container {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.testimonial .placeholder-5 {
+  opacity: 0.15;
+  border-radius: 10px;
+  border: 2px solid var(--colors-white, #FFFFFF);
+  width: 470px;
+  height: 237px;
+}
+.testimonial .mask-2 {
+  border-radius: 10px;
+  background: url('../assets/images/mask_5.jpeg') 50% / cover no-repeat;
+  width: 70px;
+  height: 70px;
+}
+.testimonial .userpic-2 {
+  border-radius: 10px;
+  position: relative;
+  margin: 36px 30px 108px 0;
+  display: flex;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.testimonial .prototyping-in-the-b-2 {
+  margin-bottom: 97px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-article-font-family, 'DM Sans');
+  font-weight: var(--text-article-font-weight, 500);
+  font-size: var(--text-article-font-size, 18px);
+  line-height: var(--text-article-line-height, 1.556);
+  color: #FFFFFF;
+}
+.testimonial .timothy-nathan-2 {
+  opacity: 0.3;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.testimonial .text-2 {
+  position: relative;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.testimonial .testimonial-22 {
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: row;
+  padding: 35px 45.7px 23px 35px;
+  box-sizing: border-box;
+}
+.testimonial .placeholder-7 {
+  opacity: 0.15;
+  border-radius: 10px;
+  border: 2px solid var(--colors-white, #FFFFFF);
+  width: 470px;
+  height: 237px;
+}
+.testimonial .mask-3 {
+  border-radius: 10px;
+  background: url('../assets/images/mask_3.jpeg') 50% / cover no-repeat;
+  width: 70px;
+  height: 70px;
+}
+.testimonial .userpic-3 {
+  border-radius: 10px;
+  position: relative;
+  margin: 36px 30px 108px 0;
+  display: flex;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.testimonial .prototyping-in-the-b-3 {
+  margin-bottom: 69px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-article-font-family, 'DM Sans');
+  font-weight: var(--text-article-font-weight, 500);
+  font-size: var(--text-article-font-size, 18px);
+  line-height: var(--text-article-line-height, 1.556);
+  color: var(--colors-white, #FFFFFF);
+}
+.testimonial .timothy-nathan-3 {
+  opacity: 0.3;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.testimonial .text-3 {
+  position: relative;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.testimonial .testimonial-23 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 35px 37.4px 23px 35px;
+  box-sizing: border-box;
+}
+.testimonial .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.testimonial {
+  background: var(--colors-heading, #1E0E62);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0 104px 0;
+  width: 1400px;
+  box-sizing: border-box;
+}

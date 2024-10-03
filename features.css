@@ -1,0 +1,225 @@
+.features .rectangle {
+  opacity: 0.6;
+  background: url('../assets/images/rectangle.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.features .screen {
+  border-radius: 4px;
+  background: url('../assets/images/screen.jpeg') 50% / cover no-repeat;
+  width: 733.6px;
+  height: 449.9px;
+}
+.features .screen-effects {
+  border-radius: 4px;
+  display: flex;
+  width: 733.6px;
+  height: 449.9px;
+  box-sizing: border-box;
+}
+.features .mockup {
+  background: url('../assets/images/space_grey.png');
+  position: relative;
+  margin: 100px 33.4px 0 0;
+  display: flex;
+  padding-top: 26.4px;
+  width: 983.3px;
+  height: 535.8px;
+  box-sizing: border-box;
+}
+.features .we-create-something {
+  margin: 0 39.9px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-3-title-font-family, 'DM Sans');
+  font-weight: var(--heading-h-3-title-font-weight, 700);
+  font-size: var(--heading-h-3-title-font-size, 42px);
+  letter-spacing: var(--heading-h-3-title-letter-spacing, -0.4px);
+  line-height: var(--heading-h-3-title-line-height, 1.238);
+  color: var(--colors-white, #FFFFFF);
+}
+.features .we-have-created-ane {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-lead-font-family, 'DM Sans');
+  font-weight: var(--heading-h-5-lead-font-weight, 500);
+  font-size: var(--heading-h-5-lead-font-size, 22px);
+  line-height: var(--heading-h-5-lead-line-height, 1.455);
+  color: var(--colors-white, #FFFFFF);
+}
+.features .title {
+  margin-bottom: 65.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.features .fa-commenting-o-1 {
+  margin-bottom: 22.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 37.6px;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .new-feature-pages {
+  margin: 0 1px 16.2px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.features .startup-framework-co {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.features .feature-1 {
+  margin-right: 53.1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.features .fa-commenting-o {
+  margin-bottom: 22.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 37.6px;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .useful-symbol-compon {
+  margin: 0 9.5px 16.2px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-label-font-family, 'DM Sans');
+  font-weight: var(--text-label-font-weight, 700);
+  font-size: var(--text-label-font-size, 14px);
+  letter-spacing: var(--text-label-letter-spacing, 2px);
+  line-height: var(--text-label-line-height, 1.857);
+  text-transform: var(--text-label-text-transform, uppercase);
+  color: var(--colors-white, #FFFFFF);
+}
+.features .samples-will-show-yo {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: var(--text-paragraph-font-family, 'DM Sans');
+  font-weight: var(--text-paragraph-font-weight, 400);
+  font-size: var(--text-paragraph-font-size, 16px);
+  line-height: var(--text-paragraph-line-height, 1.625);
+  color: var(--colors-white, #FFFFFF);
+}
+.features .feature-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.features .container {
+  margin-right: 8.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.features .container-1 {
+  position: relative;
+  margin: 158px 181.5px 57.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.features .fa-circle-o-1 {
+  opacity: 0.3;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 3;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .fa-circle-o-2 {
+  opacity: 0.3;
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 3;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .fa-circle-o-3 {
+  opacity: 0.3;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 3;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .fa-circle-o {
+  opacity: 0.3;
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 3;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .fa-circle {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'FontAwesome', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 3;
+  color: var(--colors-white, #FFFFFF);
+}
+.features .paginator-white {
+  position: relative;
+  margin: 323px 0px 196.8px 0;
+  display: flex;
+  padding-top: 80px;
+  box-sizing: border-box;
+}
+.features {
+  background: var(--background-dark, #2F1893);
+  display: flex;
+  flex-direction: row;
+  padding: 100px 117.8px 100.2px 0;
+  width: 1400px;
+  box-sizing: border-box;
+}
